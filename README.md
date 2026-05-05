@@ -50,11 +50,6 @@ KAKEI-BO2 のJSONは以下を含みます。
 
 旧形式の配列JSONも読み込み可能です。
 
-## デプロイ
-
-```powershell
-cd "$env:USERPROFILE\Desktop\KAKEI-BO2"
-npx wrangler pages deploy . --project-name kakei-bo2
 ```
 
 ## 注意
